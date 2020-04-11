@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{3F2E5CE2-369E-4139-AF09-83C15A07D909}</ProjectGuid>
+    <ProjectGuid>{FEC001AF-E492-45B0-A2A3-D298FD42AEC9}</ProjectGuid>
     <RootNamespace>mycopy</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
